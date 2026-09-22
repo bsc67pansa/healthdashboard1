@@ -141,8 +141,7 @@ export default function App() {
             <Sparkles className="w-3.5 h-3.5 text-pink-400" />
           </div>
           <p>
-            พัฒนาและจัดทำโดย: <strong className="text-pink-800 font-bold">พรรษา บอนขุนทด</strong> • 
-            เชื่อมโยงข้อมูลแบบเรียลไทม์จาก Google Sheets ID: <span className="font-mono text-slate-600">14v6S8IK1KLEwiauumfj_Kqtz_HjGbtLvBe5RNULksSk</span>
+            พัฒนาและจัดทำโดย: <strong className="text-pink-800 font-bold">พรรษา บอนขุนทด</strong>
           </p>
           <p className="text-[11px] text-slate-400">
             ระบบจัดเก็บและวิเคราะห์ความเสี่ยงโรคเบาหวานและความดันโลหิตสูง สำหรับหน่วยงานสาธารณสุขและชุมชน
